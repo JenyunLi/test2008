@@ -4,3 +4,4 @@ var obj={
 }
 
 console.log('new route:/film/new');
+console.log('new route:/film/coming');
